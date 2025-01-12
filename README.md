@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently working on DataScience & Business Intelligence projects and Data-Drivens Solutions.
+🌱 I’m currently learning AI models, Python Programming Languages and Datascience applications.
+💬 Ask me about projects, collab and topics about Datascience and AI.
 <!--
 **geffrey237/geffrey237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
